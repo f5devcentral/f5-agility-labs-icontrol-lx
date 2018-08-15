@@ -11,7 +11,6 @@ Here is the lab topology:
 .. list-table::
    :widths: 30 30 30
    :header-rows: 1
-   :stub-columns: 1
 
 
    * - **Component**
