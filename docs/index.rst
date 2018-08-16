@@ -12,12 +12,3 @@ Welcome to Single Call Security iControl LX REST API Lab
    :glob:
 
    class*/class*
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
